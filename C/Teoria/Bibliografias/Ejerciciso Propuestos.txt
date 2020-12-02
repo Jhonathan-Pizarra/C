@@ -1,0 +1,48 @@
+Escriba un programa que reciba cuatro calificaciones de un estudiante y devuelva el promedio y la máxima y la mínima calificación. 
+
+
+1 Que muestre un menú donde las opciones sean “Equilátero”, “Isósceles” y “Escaleno”, pida una opción y calcule el perímetro del triángulo seleccionado.
+
+
+2 Que pase de Kg a otra unidad de medida de masa, mostrar en pantalla un menú con las opciones posibles.
+3 Que lea una hora en hora:minutos:segundos y diga la hora que es un segundo después.
+
+Escribir en lenguaje C un programa que:
+1º) Pida por teclado dos números (datos enteros).
+2º) Muestre el mayor de los dos números introducidos.
+
+ Que calcule el sueldo que le corresponde al trabajador de una empresa que cobra 40.000 euros anuales, el programa debe realizar los cálculos en función de los siguientes criterios:
+
+a.       Si lleva más de 10 años en la empresa se le aplica un aumento del 10%.
+b.      Si lleva menos de 10 años pero más que 5 se le aplica un aumento del 7%.
+c.       Si lleva menos de 5 años pero más que 3 se le aplica un aumento del 5%.
+d.      Si lleva menos de 3 años se le aplica un aumento del 3%.
+
+
+Escribir en lenguaje C un programa que:
+1º) Pida por teclado el radio (dato real) de una circunferencia.
+2º) Calcule el perímetro de la circunferencia.
+3º) Muestre por pantalla el resultado (dato real).
+Nota1: Perímetro de una circunferencia = 2 * Π * radio.
+Nota2: Π (pi) debe declararse como una constante.
+
+
+Escribir en lenguaje C un programa que:
+1º) Pida por teclado un año (dato entero).
+2º) Muestre por pantalla:
+"ES BISIESTO", en el caso de que el año sea bisiesto.
+"NO ES BISIESTO", en el caso de que el año no sea bisiesto.
+Nota: Son bisiestos todos los años múltiplos de 4, excepto aquellos que son múltiplos de 100 pero no de 400. Por ejemplo, años múltiplos de 4 son:
+4, 8, 20, 100, 200, 400, 1000, 2000, 2100, 2800...
+De ellos, años múltiplos de 100 pero no de 400 son:
+100, 200, 1000, 2100...
+Así que, de los años enumerados, bisiestos son:
+4, 8, 20, 400, 2000, 2800...
+
+
+
+Escribir en lenguaje C un programa que:
+1º) Pida por teclado la duración en minutos (dato entero) de una llamada telefónica.
+2º) Calcule el coste de la llamada telefónica.
+3º) Muestre por pantalla el resultado (dato real) en euros.
+Nota: 1 Euro = 100 céntimos.
