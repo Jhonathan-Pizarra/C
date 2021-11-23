@@ -3,7 +3,8 @@ project(C_programs C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(C_programs main.c 1_holaMundo.c
+add_executable(C_programs main.c
+        1_holaMundo.c
         2_tipos_de_datos.c
         3_entradas.c
         4_salidas.c
