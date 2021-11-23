@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/hp/Desktop/Lunes/C/Programas/45_leer_registros.c
+
+/cygdrive/c/Users/hp/Desktop/Lunes/C/Programas/46_manejo_excepciones.c
+stdio.h
+-
+stdlib.h
+-
+
